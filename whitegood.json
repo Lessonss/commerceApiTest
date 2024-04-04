@@ -1,0 +1,24 @@
+[
+  {
+  "name":"Fridge",
+  "price":"5000",
+  "logo":"https://raw.githubusercontent.com/Lessonss/commerceApiTest/main/fridge.jpg"
+  },
+   {
+  "name":"Oven",
+  "price":"2000",
+  "logo":"https://raw.githubusercontent.com/Lessonss/commerceApiTest/main/oven.jpg"
+  },  {
+  "name":"Dishwasher",
+  "price":"10000",
+  "logo":"https://raw.githubusercontent.com/Lessonss/commerceApiTest/main/dishwasher.jpg"
+  },{
+  "name":"Washer",
+  "price":"12000",
+  "logo":"https://raw.githubusercontent.com/Lessonss/commerceApiTest/main/washer.jpg"
+  },{
+  "name":"Cleaner",
+  "price":"7500",
+  "logo":"https://raw.githubusercontent.com/Lessonss/commerceApiTest/main/cleaner.jpg"
+  }
+  ]
