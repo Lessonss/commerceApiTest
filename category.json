@@ -6,5 +6,9 @@
   {
   "CategoryName":"White Goods",
   "Id":"whitegood"
+},
+   {
+  "CategoryName":"Shoes",
+  "Id":"shoes"
 }
 ]
